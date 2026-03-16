@@ -133,7 +133,7 @@ jeremiah = {
 
 <div align="center">
 
-### 💼 Open to Senior / Staff AI & Backend Engineering roles in UK Fintech
+### 💼 Open to Senior / Staff AI & Backend Engineering roles in Awesome Companies!
 
 **[Let's Talk →](https://chienda.com/contact)**
 
