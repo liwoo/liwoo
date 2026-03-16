@@ -125,7 +125,7 @@ jeremiah = {
 
 <div align="center">
 <p>
-🇷🇼 Irembo &nbsp;·&nbsp; 🌍 One Acre Fund &nbsp;·&nbsp; 🇩🇰 Bestseller &nbsp;·&nbsp; 🏦 NBS Bank &nbsp;·&nbsp; 🏦 Centenary Bank &nbsp;·&nbsp; 🏥 Baobab Health Trust &nbsp;·&nbsp; 🌐 UNDP &nbsp;·&nbsp; 📡 MTL &nbsp;·&nbsp; 📡 TNM
+🇷🇼 Irembo &nbsp;·&nbsp; 🌍 One Acre Fund &nbsp;·&nbsp; 🇩🇰 Bestseller &nbsp;
 </p>
 <p><em>Govtech · Fintech · Agriculture · Health · Telecoms</em></p>
 </div>
@@ -135,8 +135,6 @@ jeremiah = {
 <div align="center">
 
 ### 💼 Open to Senior / Staff AI & Backend Engineering roles in UK Fintech
-
-*🌐 Remote-friendly &nbsp;·&nbsp; 📍 Based in Wigan, UK &nbsp;·&nbsp; ✅ Visa: valid*
 
 **[Let's Talk →](https://chienda.com/contact)**
 
