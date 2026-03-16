@@ -25,7 +25,6 @@ jeremiah = {
     "focus":      ["Agent Systems", "RAG Pipelines", "LLM-Powered Products"],
     "currently":  "Leading AI & Mobile Engineering @ Irembo, Kigali 🇷🇼",
     "education":  "MEng Doshisha University 🇯🇵 · BSc MUBS 🇲🇼",
-    "based_in":   "Wigan, UK 🇬🇧",
     "open_to":    "Senior / Staff Backend & AI roles in UK Fintech / Big Tech",
     "fun_fact":   "Also a gospel rapper 🎤 → getalinafe.com"
 }
