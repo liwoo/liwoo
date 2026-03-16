@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Jeremiah%20Chienda&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Agents%20%C2%B7%20RAG%20%C2%B7%20LLM%20Systems&descAlignY=55&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Building+AI+agents+that+go+past+the+demo+stage.;10%2B+years+shipping+production+software.;Fintech+%7C+Govtech+%7C+East+%26+Southern+Africa.;Currently+open+to+UK+roles.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Building+AI+agents+that+go+past+the+demo+stage.;10%2B+years+shipping+production+software.;Fintech+%7C+Govtech+%7C+East+%26+Southern+Africa.)](https://git.io/typing-svg)
 
 <p>
   <a href="https://chienda.com"><img src="https://img.shields.io/badge/chienda.com-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
