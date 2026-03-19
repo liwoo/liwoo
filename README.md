@@ -44,23 +44,6 @@ jeremiah = {
 
 ---
 
-## ⭐ Featured Projects
-
-<div align="center">
-
-[![agentic-rag-e2e](https://github-readme-stats.vercel.app/api/pin/?username=liwoo&repo=agentic-rag-e2e&theme=tokyonight&border_color=6EE7B7)](https://github.com/liwoo/agentic-rag-e2e)
-[![thyma](https://github-readme-stats.vercel.app/api/pin/?username=liwoo&repo=thyma&theme=tokyonight&border_color=6EE7B7)](https://github.com/liwoo/thyma)
-
-[![goravel-inertia-tw-starter](https://github-readme-stats.vercel.app/api/pin/?username=liwoo&repo=goravel-inertia-tw-starter&theme=tokyonight&border_color=3B82F6)](https://github.com/liwoo/goravel-inertia-tw-starter)
-[![llm-fluency-evaluation](https://github-readme-stats.vercel.app/api/pin/?username=liwoo&repo=llm-fluency-evaluation&theme=tokyonight&border_color=3B82F6)](https://github.com/liwoo/llm-fluency-evaluation)
-
-[![payme](https://github-readme-stats.vercel.app/api/pin/?username=liwoo&repo=payme&theme=tokyonight&border_color=A78BFA)](https://github.com/liwoo/payme)
-[![event-bus](https://github-readme-stats.vercel.app/api/pin/?username=liwoo&repo=event-bus&theme=tokyonight&border_color=A78BFA)](https://github.com/liwoo/event-bus)
-
-</div>
-
----
-
 ## 🛠 Tech Stack
 
 **🤖 AI / LLM**
