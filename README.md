@@ -107,7 +107,7 @@ jeremiah = {
 
 <div align="center">
 <p>
-🇷🇼 Irembo &nbsp;·&nbsp; 🌍 One Acre Fund &nbsp;·&nbsp; 🇩🇰 Bestseller &nbsp;
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 ICO &nbsp;·&nbsp;  🇷🇼 Irembo &nbsp;·&nbsp; 🌍 One Acre Fund &nbsp;·&nbsp; 🇩🇰 Bestseller &nbsp;
 </p>
 <p><em>Govtech · Fintech · Agriculture · Health · Telecoms</em></p>
 </div>
