@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Jeremiah%20Chienda&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Agents%20%C2%B7%20RAG%20%C2%B7%20LLM%20Systems&descAlignY=55&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Building+AI+agents+that+go+past+the+demo+stage.;10%2B+years+shipping+production+software.;Fintech+%7C+Govtech+%7C+East+%26+Southern+Africa.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Building+AI+agents+that+go+past+the+demo+stage.;10%2B+years+shipping+production+software.;Fintech+%7C+Govtech+.)](https://git.io/typing-svg)
 
 <p>
   <a href="https://chienda.com"><img src="https://img.shields.io/badge/chienda.com-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
@@ -23,24 +23,14 @@
 jeremiah = {
     "role":       "AI Engineer",
     "focus":      ["Agent Systems", "RAG Pipelines", "LLM-Powered Products"],
-    "currently":  "Date and AI Engineerng @ the ICO, Manchester 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "currently":  "Data and AI Engineerng @ the ICO, Manchester 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "education":  "MEng Doshisha University 🇯🇵 · BSc MUBS 🇲🇼",
     "open_to":    "Senior / Staff Backend & AI roles in UK Fintech / Big Tech",
-    "fun_fact":   "Also a gospel rapper 🎤 → getalinafe.com"
+    "fun_fact":   "Also a gospel rapper 🎤 → https://x.com/li_woo"
 }
 ```
 
 > *I build AI systems that survive production — agent architectures, RAG pipelines, and LLM-powered products used by millions across Africa and Europe.*
-
----
-
-## 🔨 Currently Building
-
-| 🚀 Project | 📋 Description | 🛠 Stack |
-|---|---|---|
-| **Msika** | AI agent for Malawi financial market intelligence. RAG over weekly capital markets reports. | Python · LangGraph · Go |
-| **Signal** | A for-profit terminal game for learning Go — beginner to expert. | Go · TypeScript |
-| **Image-to-Image RAG** | Multimodal RAG pipeline for visual similarity search. | Python · pgvector |
 
 ---
 
@@ -64,12 +54,9 @@ jeremiah = {
 
 **⚙️ Infrastructure**
 
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-232F3E?style=for-the-badge&logo=azure&logoColor=white)
 
 ---
 
